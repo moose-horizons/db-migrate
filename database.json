@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "dev",
+    "host": "localhost",
+    "database": "dbmigrate"
+  }
+}
